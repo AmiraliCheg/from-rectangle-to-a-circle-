@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    background-color:black;
+  }
+  
+.block {
+    width: 200px;
+    height: 200px;
+    background: rgb(0, 255, 229);
+    border-radius: 50%; /* hjelper den til [ gj;re den som en srikel*/
+  }
